@@ -2,7 +2,21 @@
 > ## story🎴 ## 
 ###### hello, I created a script that allows you to launch several search engines by typing a name or a word. ######
 > ## Information🔍 ##
- ###### I am not guilty of actions done with this program. #####
+
+###### search engine taken into account:
+youtube
+google
+Duck Duck Go 
+Instagram
+Twitter
+linkedin
+crt.sh
+opencorporates
+occrp
+#####
+######
+###### I am not guilty of actions done with this program. #####
+ ###### any suggestion to saturnXIII@proton.me #####
 ######
 ###### put to good use #####
 ######
